@@ -28,9 +28,9 @@ from Network import Network
 # TODO add trade boats 
 # TODO add a connection attempt after entering an IPV4 address in the fail to connect screen (I think this is done? Double check)
 
-# TODO change textboxes so you dont have to pass in all that info
+# TODO change text boxes so you dont have to pass in all that info
 
-# TODO make an independant method for adding messages to the main chatbox, so the exec calls can be simplified
+# TODO make an independent method for adding messages to the main chatbox, so the exec calls can be simplified
 
 class Game:
     IP_ADDRESS = socket.gethostbyname(socket.gethostname())

@@ -4,7 +4,6 @@ class Button:
         self.func_u = func_u
         self.func_d = func_d
 
-
         self.img_u = img_u
         self.img_d = img_d
 
